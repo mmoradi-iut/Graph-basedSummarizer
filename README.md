@@ -13,7 +13,7 @@ Graph-based Biomedical Text Summarizer
      - OUTPUT_FILE_NAME is the name of output file containing the summary that will be created in the OUTPUT directory.
      - COMPRESSION_RATE specifies the size of summary and takes a value in the range (0, 1).
      - TOP_K_SIMILARITY specifies the top K percent of similarity values between sentences that will be used to construct the edges of the graph.
-     - RSNKING_ALGORITHM specifies the graph ranking algorithm and takes a value from (pr, hits, ppf)
+     - RANKING_ALGORITHM specifies the graph ranking algorithm and takes a value from (pr, hits, ppf)
    
 8. After finishing the summarization process, the summary can be found in the OUTPUT directory already available with the summarizer.
 
