@@ -18,5 +18,3 @@ Graph-based Biomedical Text Summarizer
 8. After finishing the summarization process, the summary can be found in the OUTPUT directory already available with the summarizer.
 
 <hr>
-<b>Note:</b>
-A newer version of the summarizer that works with Word2vec and GloVe embeddings will be uploaded by the end of May 2020.
